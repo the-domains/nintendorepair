@@ -1,0 +1,28 @@
+name: nintendorepair
+favicon: null
+layout_spectrum: 0.19097162131220102
+typography_spectrum: 0.23655283288098872
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.9002629320602864
+  lightness: 0.63200235622935
+  saturation: 0.0007891480345278978
+  rhythmicContrast: 0.20479846792295575
+purpose: []
